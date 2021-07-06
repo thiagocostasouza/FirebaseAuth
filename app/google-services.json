@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "698570196088",
+    "project_id": "fire-auth-thiagoc",
+    "storage_bucket": "fire-auth-thiagoc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698570196088:android:b33144c4521b12fd31d98d",
+        "android_client_info": {
+          "package_name": "com.thiagoio.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698570196088-codmbrplvgj29ha13bu38i9fqend5lv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWjE6VzLbu_Exed87q7ItYpoucuNGpnVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698570196088-codmbrplvgj29ha13bu38i9fqend5lv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
